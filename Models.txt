@@ -1,0 +1,6 @@
+Regression
+Clustering
+Logistic
+Decision Tree
+SVM
+Regression 

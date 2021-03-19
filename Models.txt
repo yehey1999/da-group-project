@@ -1,6 +1,51 @@
-Regression
-Clustering
-Logistic
-Decision Tree
-SVM
-Regression 
+Report Dataset
+	Clean Data 
+
+Documentation:		        		- Gucio
+	Problem Statement	
+	Variable details 
+	Deadline: 03/21/21
+
+Clean Data:
+	Deadline: 03/19/21 
+
+Models:
+	Multiple Regression   			- Josh
+	Decision Tree 				- Yanni
+	Random Forest				- Gucio
+	K-Means Clustering			- Kenneth
+	Multi Layer Precepton Model		- Donee 
+	Others:
+	
+	Deadline: 03/22/21
+
+Accuracy Score:
+	Train r-squared:    >= 80%
+	Test r-squared:	    >= 80%
+
+Data Cleaning:
+	Check Null Values
+	Drop not needed column/s
+	Identify unique values of the categorical columns
+	Check for duplicates
+	Variable Creation
+	Check Multicollinearity
+	Check Outliers
+
+from sklearn.linear_model import LinearRegression
+
+X = cleaned_df.drop('Price', axis = 1)
+Y = cleaned_df['Price']
+
+# Split X and y into X_
+X_train, X_test, y_train, y_test = train_test_split(X, Y, test_size=0.20, random_state=1)
+
+# create a Linear Regression model object
+regression_model = LinearRegression()
+regression_model.fit(X_train, y_train)
+
+accuracy_train = regression_model.score(X_train,y_train)
+accuracy_test = regression_model.score(X_test,y_test)
+
+print('Accuracy Train: {0}%'.format(accuracy_train * 100))
+print('Accuracy Train: {0}%'.format(accuracy_test * 100))

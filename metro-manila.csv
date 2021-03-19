@@ -1,0 +1,261 @@
+Type,Location,Bedrooms,Bathrooms,Floor,Floors Area,Lot Area,Garage,Garden,Pet Friendly,Reservation Fee,Price
+House and Lot,Las Pinas City,2,1,2,67,55,1,yes,yes,0,3900001
+House and Lot,Las Pinas City,3,2,2,78,58,1,yes,yes,30000,4987000
+House and Lot,Quezon City,3,2,2,65,60,1,yes,yes,50000,4200000
+Townhouse,Las Pinas City,3,2,2,70,52,1,yes,yes,30000,4480000
+House and Lot,Quezon City,3,2,2,65,48,1,yes,yes,50000,3800000
+House and Lot,Las Pinas City,2,2,2,49,66,1,no,yes,20000,4228000
+House and Lot,Las Pinas City,2,1,2,67,52,1,yes,no,0,4000001
+Townhouse,Las Pinas City,2,1,2,67,52,1,yes,no,0,4000001
+House and Lot,Pasig City,3,2,2,62,60,1,yes,yes,30000,4900000
+Townhouse,Las Pinas City,2,2,2,46,39,1,no,no,20000,3340000
+House and Lot,Las Pinas City,3,2,2,99,67,1,no,yes,30000,4991000
+House and Lot,Muntinlupa City,2,2,2,52,60,1,yes,yes,0,3900000
+Townhouse,Las Pinas City,3,3,2,70,40,1,yes,no,20000,4500000
+House and Lot,Las Pinas City,2,1,2,67,54,1,yes,no,30000,4200001
+House and Lot,Las Pinas City,2,1,2,67,55,1,yes,no,0,3900001
+Townhouse,Marikina City,3,2,2,87,51,1,yes,yes,30000,4850000
+Townhouse,Las Pinas City,2,1,2,67,54,1,yes,yes,20000,4200000
+Townhouse,Paranaque City,2,2,2,94,54,1,yes,yes,0,4900000
+House and Lot,Las Pinas City,1,1,2,67,52,1,yes,no,0,4000001
+House and Lot,Pasig City,3,2,2,62,60,1,yes,yes,30000,4900000
+House and Lot,Quezon City,3,2,2,69,50,1,no,no,0,4230000
+House and Lot,Las Pinas City,2,1,2,67,36,1,no,yes,0,3200000
+House and Lot,Caloocan City,3,2,2,79,74,1,no,yes,20000,4600000
+House and Lot,Quezon City,3,2,2,70,82,1,yes,yes,50000,4700000
+House and Lot,Las Pinas City,2,2,1,46,64,1,yes,yes,20000,4065000
+House and Lot,Las Pinas City,2,2,1,54,50,1,yes,yes,20000,3779000
+House and Lot,Paranaque City,3,2,2,115,48,1,yes,yes,0,5000000
+Townhouse,Las Pinas City,2,2,1,55,54,1,yes,no,20000,3858000
+House and Lot,Paranaque City,3,2,2,80,40,1,yes,yes,0,3500000
+House and Lot,Marikina City,3,3,2,196,79,1,no,no,50000,5000000
+House and Lot,Muntinlupa City,2,2,2,94,56,1,no,no,50000,4990000
+House and Lot,Las Pinas City,2,2,1,58,96,1,yes,yes,0,3994000
+Townhouse,Las Pinas City,2,2,1,47,60,2,yes,no,0,3830000
+House and Lot,Paranaque City,2,2,2,75,50,1,no,yes,50000,4100020
+House and Lot,Las Pinas City,3,2,2,85,77,2,yes,yes,40000,4500000
+Townhouse,Marikina City,3,2,2,111,59,1,no,no,0,3900000
+Townhouse,Las Pinas City,2,2,3,78,24,1,yes,no,0,3250000
+House and Lot,Las Pinas City,2,2,2,100,50,1,no,yes,200000,4500000
+Townhouse,Las Pinas City,2,2,2,46,39,1,yes,yes,20000,3340000
+Townhouse,Las Pinas City,2,1,2,67,45,1,no,yes,20000,3900000
+House and Lot,Las Pinas City,3,2,2,86,78,2,yes,yes,40000,4550000
+Townhouse,Las Pinas City,2,2,2,98,56,1,no,yes,50000,3994000
+House and Lot,Las Pinas City,3,3,2,70,40,1,yes,no,20000,4500001
+House and Lot,Caloocan City,3,2,1,72,80,1,yes,yes,20000,4130000
+Townhouse,Pasig City,3,2,2,62,60,1,no,yes,30000,4992000
+House and Lot,Paranaque City,2,2,2,75,50,1,no,yes,0,4100020
+House and Lot,Quezon City,3,2,2,65,60,1,yes,yes,50000,4200000
+House and Lot,Las Pinas City,3,2,2,79,47,1,yes,no,50000,4745001
+House and Lot,Caloocan City,3,2,2,79,74,1,yes,yes,50000,4600000
+House and Lot,Taguig City,4,2,4,140,32,1,no,yes,0,2499999
+Townhouse,Marikina City,3,2,2,79,44,1,no,yes,100000,3900000
+Townhouse,Quezon City,3,2,2,100,55,1,yes,yes,0,4000000
+House and Lot,Marikina City,3,2,2,79,44,1,no,no,0,3900000
+Townhouse,Marikina City,3,2,2,88,54,1,yes,yes,0,5000000
+Townhouse,Paranaque City,2,2,2,51,40,1,yes,yes,0,3941000
+Townhouse,Caloocan City,3,1,2,56,50,1,yes,yes,0,2950000
+Townhouse,Paranaque City,2,2,2,95,56,1,yes,yes,50000,4900000
+House and Lot,Caloocan City,3,2,2,57,52,1,yes,yes,20000,3734500
+Townhouse,Quezon City,2,2,2,68,53,1,no,yes,0,4740000
+House and Lot,Las Pinas City,3,3,2,82,75,1,yes,yes,50000,5000000
+House and Lot,Marikina City,2,2,2,78,42,1,no,no,50000,4600000
+Townhouse,Marikina City,3,2,3,118,92,1,yes,yes,30000,4960000
+House and Lot,Caloocan City,3,2,1,57,52.5,1,yes,yes,20000,3500000
+Townhouse,Taguig City,3,2,3,150,50,1,no,no,0,4499000
+House and Lot,Las Pinas City,2,2,2,48,44,1,no,yes,20000,3450000
+House and Lot,Quezon City,3,2,1,77,56.6,1,no,yes,0,4830000
+Townhouse,Las Pinas City,2,1,2,67,55,1,yes,yes,0,3899999
+House and Lot,Quezon City,3,2,2,71,52,1,yes,yes,30000,4280000
+Townhouse,Marikina City,3,2,1,64,54,1,yes,yes,20000,4486500
+Townhouse,Las Pinas City,2,2,2,67,71,1,no,no,0,4000000
+Townhouse,Las Pinas City,3,2,2,78,58.44,1,no,yes,30000,4987000
+House and Lot,Quezon City,3,2,2,70,80,2,yes,yes,50000,4900000
+House and Lot,Las Pinas City,2,2,2,47,50,1,yes,yes,20000,3548000
+House and Lot,Quezon City,3,2,2,65,55,1,yes,yes,0,4100000
+Townhouse,Las Pinas City,2,1,2,67,55,1,no,yes,20000,3900000
+House and Lot,Paranaque City,2,2,2,43,33,1,yes,yes,20000,3400000
+House and Lot,Caloocan City,2,1,2,168,168,1,no,yes,0,4500000
+Townhouse,Caloocan City,3,1,2,56,50,1,yes,yes,0,2950000
+Townhouse,Caloocan City,3,2,2,65,60,1,yes,yes,50000,3300000
+House and Lot,Marikina City,3,2,2,89,53,1,yes,yes,30000,4960000
+House and Lot,Quezon City,3,2,1,61,52,1,yes,yes,20000,3200000
+Townhouse,Paranaque City,2,1,2,75,50,1,yes,yes,0,4100001
+House and Lot,Marikina City,3,2,2,90,90,2,yes,yes,0,5000000
+House and Lot,Quezon City,3,2,2,93,64,1,no,yes,30000,4980000
+Townhouse,Las Pinas City,2,1,2,52,48,1,no,yes,20000,3650000
+Townhouse,Marikina City,3,2,2,90,47,1,yes,yes,30000,4100000
+House and Lot,Quezon City,3,2,2,112,85,1,no,no,0,3952000
+House and Lot,Marikina City,3,2,2,80,80,1,no,no,20000,4200000
+Townhouse,Marikina City,3,3,1,64,54,1,no,yes,0,4270560
+Townhouse,Paranaque City,3,2,2,9019,50.11,1,yes,no,0,4650000
+Townhouse,Paranaque City,2,2,1,46,54,1,yes,yes,20000,3400000
+House and Lot,Caloocan City,3,2,2,79,74.25,1,no,no,0,4400008
+House and Lot,Las Pinas City,3,1,2,93,63,1,no,no,0,4000000
+House and Lot,Quezon City,3,2,2,87,52,1,yes,yes,30000,4200000
+Townhouse,Las Pinas City,3,2,2,72,72,1,yes,yes,30000,4300000
+Townhouse,Caloocan City,3,2,2,65,60,1,yes,yes,50000,3200000
+House and Lot,Quezon City,3,2,2,88,56,1,yes,yes,30000,3880000
+Townhouse,Las Pinas City,2,2,1,43,64,1,yes,yes,20000,4500000
+House and Lot,Marikina City,4,2,3,105,66,2,yes,yes,50000,4900000
+Townhouse,Marikina City,3,2,2,90,47,1,yes,yes,30000,4100000
+Townhouse,Muntinlupa City,3,2,2,56,47,1,yes,yes,30000,4600000
+House and Lot,Quezon City,3,2,2,70,70,1,yes,yes,50000,5000000
+Townhouse,Caloocan City,3,2,3,65,60,1,no,yes,50000,3200000
+House and Lot,Quezon City,3,2,2,82,40,1,no,yes,30000,4380000
+House and Lot,Quezon City,3,2,2,76,74,1,yes,yes,0,4681600
+House and Lot,Las Pinas City,3,2,3,78,24,1,yes,yes,20000,5000000
+House and Lot,Pasig City,2,1,2,48,51,1,no,no,0,4090000
+House and Lot,Las Pinas City,5,4,3,152.44,90,2,no,no,0,5000000
+Townhouse,Quezon City,3,2,2,59,55,1,yes,yes,0,3450000
+Townhouse,Taguig City,3,2,3,50,150,1,no,yes,0,4590000
+House and Lot,Las Pinas City,3,3,1,73,53,1,no,no,0,4850000
+House and Lot,Quezon City,2,1,2,37,37,1,no,no,0,4500000
+House and Lot,Quezon City,3,2,2,113,88,2,yes,yes,30000,4980000
+House and Lot,Quezon City,3,3,2,77,60,2,no,yes,30000,4780000
+House and Lot,Quezon City,3,3,2,79,69,2,no,yes,0,4280000
+House and Lot,Las Pinas City,3,1,2,65,45,1,no,yes,0,3800000
+Townhouse,Paranaque City,2,2,2,42,36,1,yes,yes,0,3450000
+Townhouse,Manila City,3,2,1,90,25,1,no,no,0,5000000
+House and Lot,Caloocan City,3,2,2,61,52,1,yes,yes,20000,3200000
+Townhouse,Marikina City,3,2,1,88,49,1,no,no,30000,4300000
+Townhouse,Las Pinas City,2,2,2,54,55,1,no,yes,20000,3858000
+Townhouse,Las Pinas City,2,2,2,42,38,1,no,yes,20000,3153000
+Townhouse,Las Pinas City,2,2,2,47,48,1,yes,yes,20000,3650000
+Townhouse,Las Pinas City,2,2,2,42,38,1,yes,yes,20000,2937000
+Townhouse,Quezon City,3,2,2,89,50,1,no,yes,0,4902643
+Townhouse,Manila City,3,1,2,60,165,1,yes,yes,50000,4200000
+Townhouse,Las Pinas City,2,1,2,67,54,1,no,no,20000,4200000
+House and Lot,Marikina City,3,2,2,88,53,1,yes,yes,25000,4961000
+House and Lot,Las Pinas City,2,2,2,43,54,1,no,no,0,3500000
+House and Lot,Las Pinas City,2,2,1,49,66,1,yes,yes,20000,4228000
+House and Lot,Las Pinas City,2,2,2,98,56,1,no,yes,50000,3994000
+House and Lot,Las Pinas City,3,2,2,100,60,1,yes,yes,50000,4999999
+House and Lot,Las Pinas City,2,2,2,46,64,1,yes,yes,20000,4065000
+Townhouse,Las Pinas City,2,2,2,98,56,0,yes,yes,50000,4990000
+House and Lot,Las Pinas City,2,2,2,48,67,1,yes,yes,20000,3784000
+House and Lot,Las Pinas City,2,2,2,94,51,1,yes,yes,50000,4915000
+House and Lot,Las Pinas City,2,2,2,48,60,1,no,no,0,3699000
+House and Lot,Las Pinas City,2,2,2,94,51,1,yes,yes,50000,4915000
+House and Lot,Las Pinas City,2,2,2,94,56,1,no,no,50000,4990000
+Townhouse,Muntilupa City,2,2,2,52,60,1,yes,yes,20000,3900000
+House and Lot,Las Pinas City,2,2,2,54,43,1,no,no,0,3500000
+House and Lot,Caloocan City,3,2,2,76,74,1,no,no,0,4681600
+House and Lot,Las Pinas City,3,2,2,78,58,1,no,no,30000,4987000
+Townhouse,Las Pinas City,2,2,2,100,50,1,yes,yes,0,4500000
+Townhouse,Las Pinas City,2,2,2,57,98,1,no,yes,50000,3994000
+House and Lot,Las Pinas City,2,2,2,100,50,1,no,no,0,4500000
+House and Lot,Las Pinas City,2,2,2,94,56,1,yes,yes,50000,4990000
+House and Lot,Las Pinas City,2,2,2,78,24,1,yes,yes,20000,3250000
+Townhouse,Las Pinas City,2,2,2,98,56,1,yes,yes,50000,3994000
+House and Lot,Marikina City,3,2,1,88,53,1,yes,yes,0,5000000
+House and Lot,Las Pinas City,2,2,2,94,56,1,yes,yes,50000,4990000
+House and Lot,Las Pinas City,2,2,2,46,39,1,yes,no,20000,4052000
+House and Lot,Las Pinas City,2,1,2,67,52,1,no,yes,20000,3900000
+Townhouse,Muntilupa City,2,2,2,46,41,1,yes,yes,0,2990000
+House and Lot,Las Pinas City,2,2,2,49,66,1,yes,yes,20000,4228000
+House and Lot,Marikina City,3,2,1,120,189,2,yes,yes,0,3500000
+House and Lot,Las Pinas City,2,2,1,94.81,51,1,yes,no,50000,4915000
+House and Lot,Las Pinas City,2,2,1,46,39,1,no,yes,20000,3340000
+House and Lot,Las Pinas City,2,2,2,48,46,1,yes,yes,20000,3850000
+Townhouse,Las Pinas City,2,2,2,42,33,1,yes,yes,20000,2937000
+House and Lot,Paranaque City,2,2,2,70,50,1,yes,yes,0,4300000
+House and Lot,Las Pinas City,2,2,2,78,65,1,no,no,20000,4600000
+House and Lot,Las Pinas City,2,2,2,95,51,1,yes,yes,50000,4915000
+Townhouse,Las Pinas City,2,2,2,49,71,1,yes,yes,20000,4414000
+House and Lot,Las Pinas City,2,2,2,55,54,1,yes,yes,20000,3858000
+Townhouse,Las Pinas City,2,2,2,49,70,1,no,yes,0,4194000
+House and Lot,Las Pinas City,2,2,2,47,50,1,yes,yes,20000,3548000
+House and Lot,Las Pinas City,2,2,2,49,66,1,yes,yes,20000,4228000
+House and Lot,Marikina City,3,2,2,88,44,1,no,no,0,4300000
+Townhouse,Las Pinas City,2,2,2,47,48,1,yes,yes,20000,3650000
+House and Lot,Marikina City,3,2,2,80,80,2,yes,yes,0,4200000
+Townhouse,Las Pinas City,2,2,2,49,71,1,yes,yes,20000,4414000
+Townhouse,Marikina City,3,2,2,106,60,1,yes,yes,0,4800000
+Townhouse,Las Pinas City,2,2,2,98,56,1,yes,yes,50000,3994000
+House and Lot,Las Pinas City,2,1,2,67,55,1,yes,yes,0,3900000
+Townhouse,Las Pinas City,3,2,2,87,51,1,yes,no,0,4900000
+House and Lot,Las Pinas City,3,2,2,70,52,1,yes,yes,30000,4480000
+Townhouse,Caloocan City,2,1,2,56,44,1,no,yes,20000,2650000
+House and Lot,Quezon City,3,2,2,65,48,1,yes,yes,0,3800000
+House and Lot,Las Pinas City,2,2,2,49,66,1,no,yes,0,4228000
+House and Lot,Las Pinas City,2,2,2,39,46,1,no,no,20000,3340000
+House and Lot,Las Pinas City,2,2,2,55,54,1,no,yes,20000,3858000
+House and Lot,Las Pinas City,2,2,2,42,38,1,no,yes,20000,3153000
+House and Lot,Las Pinas City,2,2,2,47,48,1,yes,yes,20000,3650000
+House and Lot,Las Pinas City,2,2,2,42,38,1,yes,yes,20000,2937000
+Townhouse,Las Pinas City,3,2,2,89,50,1,no,yes,50000,4902643
+House and Lot,Las Pinas City,3,1,2,60,165,1,yes,yes,0,4200000
+Townhouse,Las Pinas City,2,1,2,67,54,1,no,no,20000,4200000
+House and Lot,Las Pinas City,2,2,2,88,53,1,yes,yes,25000,4916000
+House and Lot,Las Pinas City,2,2,2,54,43,1,no,no,0,3500000
+Townhouse,Las Pinas City,2,2,2,49,66,1,yes,yes,20000,4228000
+Townhouse,Las Pinas City,2,2,2,98.07,56,1,no,yes,50000,3994000
+Townhouse,Las Pinas City,2,2,2,100,50,1,yes,yes,0,4500000
+House and Lot,Las Pinas City,3,2,2,100,60,1,yes,yes,50000,4999999
+House and Lot,Las Pinas City,2,2,2,46,64,1,yes,yes,20000,4065000
+Townhouse,Las Pinas City,2,2,2,94.81,56,1,yes,yes,50000,4990000
+House and Lot,Las Pinas City,2,2,2,48,67,1,yes,yes,20000,3784000
+House and Lot,Las Pinas City,2,2,2,94.81,51,1,yes,yes,50000,4915000
+House and Lot,Las Pinas City,2,2,2,60,48,1,no,no,0,3699000
+House and Lot,Las Pinas City,2,2,2,94,51,1,yes,yes,50000,4915000
+House and Lot,Las Pinas City,2,2,2,94,56,1,no,no,50000,4990000
+Townhouse,Muntinlupa City,2,2,2,52,60,1,yes,yes,20000,3900000
+House and Lot,Las Pinas City,2,2,2,54,43,1,no,no,0,3500000
+House and Lot,Caloocan City,3,2,2,79,74.25,1,no,no,0,4681600
+House and Lot,Las Pinas City,3,2,2,78,58.44,1,no,no,30000,4987000
+Townhouse,Las Pinas City,2,2,2,67,55,1,no,no,20000,3900000
+Townhouse,Las Pinas City,2,2,2,100,50,1,yes,yes,0,4500000
+Townhouse,Las Pinas City,3,2,2,98.7,56,1,no,yes,50000,3994000
+Townhouse,Quezon City,2,2,2,78.28,50,1,yes,yes,0,3300000
+House and Lot,Las Pinas City,2,2,2,94,56,1,yes,yes,50000,4990000
+House and Lot,Las Pinas City,2,2,2,78,24,1,yes,yes,20000,3250000
+Townhouse,Las Pinas City,2,2,2,98,56,1,yes,yes,50000,3994000
+House and Lot,Marikina City,3,2,2,88.91,53.67,1,yes,yes,25000,5000000
+Townhouse,Quezon City,3,2,2,69.13,50,2,yes,yes,0,3000000
+House and Lot,Las Pinas City,2,2,2,94.81,56,1,yes,yes,50000,4990000
+House and Lot,Las Pinas City,2,2,2,46,39,1,no,yes,20000,4052000
+House and Lot,Las Pinas City,2,1,2,67,52,1,no,yes,20000,3900000
+Townhouse,Muntinlupa City,2,2,2,46,41,1,yes,yes,20000,2990000
+House and Lot,Las Pinas City,2,2,2,49,66,1,yes,yes,20000,4228000
+House and Lot,Pasig City,4,4,3,222.79,80,1,yes,yes,0,5000000
+House and Lot,Marikina City,3,2,2,120,189,2,yes,yes,0,3500000
+House and Lot,Las Pinas City,2,2,2,42,33,1,no,yes,20000,2937000
+Townhouse,Las Pinas City,2,1,2,67,52,1,no,yes,20000,3900000
+Townhouse,Las Pinas City,2,2,2,78,24,1,no,no,20000,3250000
+Townhouse,Paranaque City,2,2,2,42,60,1,yes,yes,20000,3753000
+House and Lot,Las Pinas City,2,2,2,94.81,51,1,no,yes,50000,4915000
+Townhouse,Las Pinas City,2,2,2,94,56,1,yes,yes,50000,4990000
+House and Lot,Muntinlupa City,2,2,2,46,30,1,no,yes,20000,2580000
+Townhouse,Caloocan City,3,2,2,79,74,1,no,no,0,4450000
+House and Lot,Marikina City,3,2,2,82,46,1,yes,yes,0,4300000
+Townhouse,Las Pinas City,2,2,2,53,50,1,yes,yes,20000,3547000
+Townhouse,Las Pinas City,2,2,2,46,39,1,no,yes,20000,3340000
+Townhouse,Las Pinas City,2,2,2,48,46,1,yes,yes,0,3850000
+Townhouse,Las Pinas City,2,2,2,42,33,1,yes,yes,20000,2937000
+House and Lot,Paranaque City,2,2,2,75,50,1,yes,yes,100000,4300000
+House and Lot,Quezon City,3,2,2,70,66,1,yes,yes,50000,4400000
+House and Lot,Las Pinas City,2,2,2,78.8,65,1,no,no,20000,4600000
+House and Lot,Las Pinas City,2,2,2,95,51,1,yes,yes,50000,4915000
+Townhouse,Paranaque City,2,2,2,47,33,1,yes,yes,20000,3314000
+Townhouse,Las Pinas City,2,2,2,49,71,1,no,no,20000,4414000
+House and Lot,Las Pinas City,2,2,2,95,51,1,no,yes,50000,4915000
+Townhouse,Las Pinas City,2,2,2,98.07,56,1,no,no,50000,3994000
+House and Lot,Las Pinas City,2,1,2,67,52,1,yes,yes,0,3900000
+House and Lot,Las Pinas City,2,2,2,46,39,1,no,yes,20000,3340000
+Townhouse,Las Pinas City,2,2,2,42,38,1,no,no,20000,3153000
+House and Lot,Las Pinas City,2,2,2,49,71,1,no,yes,20000,4414000
+House and Lot,Marikina City,3,2,2,88.91,53.66,1,yes,yes,25000,4961000
+Townhouse,Las Pinas City,4,2,2,78,58.44,1,yes,yes,30000,4987000
+Townhouse,Las Pinas City,2,2,2,48,67,1,no,yes,20000,3784000
+Townhouse,Quezon City,2,2,2,63.94,56,1,yes,yes,0,3664526
+House and Lot,Las Pinas City,3,2,2,85.5,77,1,no,no,50000,4550000
+Townhouse,Las Pinas City,2,2,2,94,56,1,yes,yes,0,4900000
+House and Lot,Las Pinas City,2,2,2,94.81,55,1,yes,yes,50000,4970000
+House and Lot,Las Pinas City,2,2,2,42,33,1,yes,yes,20000,2937000
+House and Lot,Las Pinas City,2,2,2,95,51,1,no,yes,50000,4915000
+Townhouse,Las Pinas City,2,1,2,67,52,1,no,no,0,3900000
+House and Lot,Las Pinas City,2,2,2,48,66,1,yes,yes,20000,3753000
+House and Lot,Marikina City,3,2,2,88.91,53.66,1,yes,yes,25000,4961000
+Townhouse,Las Pinas City,4,2,2,78,58.44,1,yes,yes,30000,4987000
+Townhouse,Las Pinas City,2,2,2,48,67,1,no,yes,20000,3784000
